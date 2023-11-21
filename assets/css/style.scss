@@ -1,28 +1,16 @@
 ---
 ---
-// Headers
-$header-heading-color: #fff !default;
-$header-bg-color: #ff5700;
-$header-bg-color-secondary: #ffeecf;
 
-// Text
-$section-headings-color: #253c78;
-$body-text-color: #606c71 !default;
-$body-link-color: #253c78;
-$blockquote-text-color: #819198 !default;
-
-@import"{{ site.theme }}";
-
-.page-header {
-  text-align: center;
-  background-color: $header-bg-color;
+@import "{{ site.theme }}";
+body {
+  background-color: #1E1E1E !important;
+  color: #DCDCDC;
 }
-
-.main-content {
- 
-  h2,
-  h3 {
-   color: #253c78;
- }
- 
+.page-header {
+  padding: 0px !important;
+  background-color: #2D2D30 !important;
+  border-bottom: solid 0.2em #141414 !important;
+  background-image: none;
+  padding-left: 1em !important;
+  text-align:left !important;
 }
