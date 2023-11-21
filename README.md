@@ -1,6 +1,3 @@
-# Computational Intelligence Group
-## CUNEF University
-
 ## Members
 - Victoria López
 - Diego Urgelés
