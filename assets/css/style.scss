@@ -8,5 +8,21 @@ $header-bg-color-secondary: #32174D;
 // Text
 $section-headings-color: #FF5700;
 $body-text-color: #606c71 !default;
-$body-link-color: #32174d !default;
+$body-link-color: #32174d;
 $blockquote-text-color: #819198 !default;
+
+@import"{{ site.theme }}";
+
+.page-header {
+  text-align: center;
+  background-color: $header-bg-color;
+}
+
+.main-content {
+ 
+  h2,
+  h3 {
+   color: #ff0000;
+ }
+ 
+}
