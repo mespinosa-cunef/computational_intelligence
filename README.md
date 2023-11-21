@@ -1,3 +1,4 @@
+# Computational Intelligence Group
 ## Members
 - Victoria López
 - Diego Urgelés
