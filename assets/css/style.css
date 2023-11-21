@@ -4,3 +4,9 @@
 $header-heading-color: #fff !default;
 $header-bg-color: #ff5700;
 $header-bg-color-secondary: #32174D;
+
+// Text
+$section-headings-color: #159957 !default;
+$body-text-color: #ff5700 !default;
+$body-link-color: #32174d !default;
+$blockquote-text-color: #819198 !default;
