@@ -6,9 +6,9 @@ $header-bg-color: #ff5700;
 $header-bg-color-secondary: #ffeecf;
 
 // Text
-$section-headings-color: #32174d;
+$section-headings-color: #253c78;
 $body-text-color: #606c71 !default;
-$body-link-color: #32174d;
+$body-link-color: #253c78;
 $blockquote-text-color: #819198 !default;
 
 @import"{{ site.theme }}";
@@ -22,7 +22,7 @@ $blockquote-text-color: #819198 !default;
  
   h2,
   h3 {
-   color: #32174d;
+   color: #253c78;
  }
  
 }
