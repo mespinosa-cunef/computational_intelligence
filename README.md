@@ -7,6 +7,7 @@
 - Natalia Lagunas
 - Yury Jiménez
 - María Espinosa
+- Ricardo Hidalgo
 
 ## Recent Publications
 
