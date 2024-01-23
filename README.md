@@ -6,7 +6,13 @@
 - Pavél Llamocca
 - Natalia Lagunas
 - Yury Jiménez
-- María Espinosa
+- María Espinosa. 
+María Espinosa
+PhD candidate in Natural Language Processing (NLP) at UNED, Spain. 
+Computer Scientist and English Studies bachelor. 
+Research interests: NLP, ML, Linguistics, and Information Verification. 
+![Book logo](/computational_intelligence/assets/img/María Espinosa Ruiz_1.jpg)
+
 - Ricardo Hidalgo
 - Mateo Pérez Wiesner
 
