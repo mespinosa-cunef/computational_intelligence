@@ -8,6 +8,7 @@
 - Yury Jiménez
 - María Espinosa
 - Ricardo Hidalgo
+- Mateo Pérez Wiesner
 
 ## Recent Publications
 
