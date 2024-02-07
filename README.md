@@ -1,7 +1,5 @@
 # Computational Intelligence Group
 ## Members
-## `Screen Shots`
-
 <table style="padding:10px">
   <tr>
    <div class="one-third">
