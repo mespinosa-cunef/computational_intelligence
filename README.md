@@ -3,8 +3,10 @@
 <table style="padding:10px">
   <tr>
    <div class="one-third">
-    <td><img src="/computational_intelligence/assets/img/María Espinosa Ruiz_1.jpg"  alt="1" width = 279px height = 496px ></td>
-      			<p class="name">María Espinosa</p>
+    <td><img src="/computational_intelligence/assets/img/María Espinosa Ruiz_1.jpg"  alt="1" width = 279px height = 496px >
+      <p class="name">María Espinosa</p>
+    </td>
+      			
    </div>
  <td><img src="/computational_intelligence/assets/img/María Espinosa Ruiz_1.jpg" align="right" alt="2" width = 279px height = 496px></td>
        			<!--p class="name">María Espinosa</p>
