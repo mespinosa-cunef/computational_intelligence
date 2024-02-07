@@ -2,17 +2,34 @@
 ## Members
 <table style="padding:10px">
   <tr>
-    <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 496px >
+    <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
+      <p class="name">Victoria López</p>
+    </td>
+      <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
+      <p class="name">Diego Urgelés</p>
+    </td>
+        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
+      <p class="name">César Guevara</p>
+    </td>
+        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
+      <p class="name">Pavél Llamocca</p>
+    </td>
+        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
+      <p class="name">Natalia Lagunas</p>
+    </td>
+        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
+      <p class="name">Yury Jiménez</p>
+    </td>
+        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
       <p class="name">María Espinosa</p>
     </td>
-   <td><img src="/computational_intelligence/assets/img/María Espinosa Ruiz_1.jpg" align="right" alt="2" width = 279px height = 496px></td>
-       			<!--p class="name">María Espinosa</p>
-
-   <td><img src="/computational_intelligence/assets/img/María Espinosa Ruiz_1.jpg" alt="3" width = 279px height = 496px></td>
-         			<!--p class="name">María Espinosa</p>
-
-    
-   <!--<td><img src="./Scshot/trip_end.png" align="right" alt="4" width =  279px height = 496px></td>-->
+        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
+      <p class="name">Ricardo Hidalgo</p>
+    </td>
+        </td>
+        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
+      <p class="name">Mateo Pérex</p>
+    </td>
   </tr>
 </table>
 
