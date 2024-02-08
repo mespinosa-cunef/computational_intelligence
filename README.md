@@ -30,7 +30,7 @@
     </td>
         </td>
         <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
-      <p class="name">Mateo Pérex</p>
+      <p class="name">Mateo Pérez </p>
     </td>
   </
 </table>
