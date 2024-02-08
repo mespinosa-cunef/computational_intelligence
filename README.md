@@ -10,38 +10,55 @@
       <p class="name" style="text-align:center">Victoria López</p>
       </a>
     </td>
-      <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="2" width = 270px height = 270px >
-      <p class="name" style="text-align:center">Diego Urgelés</p>
+      <td>
+        <a href="">
+        <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="2" width = 270px height = 270px >
+        <p class="name" style="text-align:center">Diego Urgelés</p>
+      </a>
     </td>
-    <td>
+    <td>        
+      <a href="">
       <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="3" width = 270px height = 270px >
       <p class="name" style="text-align:center">César Guevara</p>
+      </a>
     </td></tr> 
   <tr>
     <td>
+      <a href="https://scholar.google.com/citations?hl=es&user=X1WkTU4AAAAJ&view_op=list_works&sortby=pubdate">
       <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="4" width = 270px height = 270px >
       <p class="name" style="text-align:center">Pavél Llamocca</p>
+      </a>
     </td>
     <td>
+      <a href="https://scholar.google.com/citations?hl=es&user=_WfodfIAAAAJ&view_op=list_works&sortby=pubdate">
       <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="5" width = 270px height = 270px >
       <p class="name" style="text-align:center">Natalia Lagunas</p>
+      </a>
     </td>
     <td>
+      <a href="">
       <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="6" width = 270px height = 270px >
       <p class="name" style="text-align:center">Yury Jiménez</p>
+      </a>
     </td></tr>
   <tr>
     <td>
+      <a href="https://scholar.google.com/citations?hl=es&user=np_uroEAAAAJ&view_op=list_works&sortby=pubdate">
       <img src="/computational_intelligence/assets/img/María.jpg"  alt="7" width = 270px height = 270px >
-      <p class="name" style="text-align:center">María Espinosa</p>
+      <p class="name" style="text-align:center">María Espinosa</p>   
+      </a>
     </td>
     <td>
+      <a href="">
       <img src="/computational_intelligence/assets/img/Ricardo.jpg"  alt="8" width = 270px height = 270px >
       <p class="name" style="text-align:center">Ricardo Hidalgo</p>
+      </a>
     </td>
     <td>
+      <a href="https://scholar.google.com/citations?hl=es&user=9FdJD10AAAAJ&view_op=list_works&sortby=pubdate">
       <img src="/computational_intelligence/assets/img/Mat.jpg"  alt="9" width = 270px height = 270px >
       <p class="name" style="text-align:center">Mateo Pérez </p>
+      </a>
     </td>
   </tr>
 </table>
