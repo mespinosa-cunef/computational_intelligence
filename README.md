@@ -1,5 +1,7 @@
 # Computational Intelligence Group
+
 ## Members
+
 <table style="padding:10px">
   <tr>
     <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
@@ -20,7 +22,7 @@
         <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
       <p class="name">Yury Jiménez</p>
     </td> <\tr> <tr>
-        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
+        <td><img src="/computational_intelligence/assets/img/María Espinosa Ruiz_1.jpg"  alt="1" width = 279px height = 396px >
       <p class="name">María Espinosa</p>
     </td>
         <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
@@ -30,26 +32,9 @@
         <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
       <p class="name">Mateo Pérex</p>
     </td>
-  </tr>
+  </
 </table>
 
-
-
-- Victoria López
-- Diego Urgelés
-- César Guevara
-- Pavél Llamocca
-- Natalia Lagunas
-- Yury Jiménez
-- María Espinosa. 
-María Espinosa
-PhD candidate in Natural Language Processing (NLP) at UNED, Spain. 
-Computer Scientist and English Studies bachelor. 
-Research interests: NLP, ML, Linguistics, and Information Verification. 
-//[Book logo](/computational_intelligence/assets/img/María Espinosa Ruiz_1.jpg)
-
-- Ricardo Hidalgo
-- Mateo Pérez Wiesner
 
 ## Recent Publications
 
