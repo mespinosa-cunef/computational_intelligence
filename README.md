@@ -12,7 +12,7 @@
     </td>
         <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
       <p class="name">César Guevara</p>
-    </td> <\tr> <tr>
+    </td> </tr> <tr>
         <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
       <p class="name">Pavél Llamocca</p>
     </td>
@@ -21,7 +21,7 @@
     </td>
         <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
       <p class="name">Yury Jiménez</p>
-    </td> <\tr> <tr>
+    </td> </tr> <tr>
         <td><img src="/computational_intelligence/assets/img/María Espinosa Ruiz_1.jpg"  alt="1" width = 279px height = 396px >
       <p class="name">María Espinosa</p>
     </td>
@@ -32,7 +32,7 @@
         <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
       <p class="name">Mateo Pérez </p>
     </td>
-  </
+  </tr>
 </table>
 
 
