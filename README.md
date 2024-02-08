@@ -4,8 +4,11 @@
 
 <table style="padding:10px">
   <tr>
-    <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 270px height = 270px >
+    <td>
+      <a href="https://scholar.google.com/citations?hl=es&user=HzUXtGsAAAAJ&view_op=list_works&sortby=pubdate">
+      <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 270px height = 270px >
       <p class="name" style="text-align:center">Victoria López</p>
+      </a>
     </td>
       <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="2" width = 270px height = 270px >
       <p class="name" style="text-align:center">Diego Urgelés</p>
