@@ -1,4 +1,4 @@
-![image](https://github.com/mespinosa-cunef/computational_intelligence/assets/151147175/e2d1b4e9-c808-4728-bc39-06d054f5bc0d)# Computational Intelligence Group
+# Computational Intelligence Group
 
 ## Members
 
