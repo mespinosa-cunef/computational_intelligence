@@ -48,10 +48,11 @@
       <a href="https://scholar.google.com/citations?hl=es&user=np_uroEAAAAJ&view_op=list_works&sortby=pubdate">
       <img src="/computational_intelligence/assets/img/María.jpg"  alt="7" width = 270px height = 270px >
       <p class="name" style="text-align:center">María Espinosa</p>   
+          </a>
         <p class="bio"> PhD candidate in Natural Language Processing (NLP) at UNED, Spain. 
 Computer Scientist and English Studies bachelor. 
 Research interests: NLP, ML, Linguistics, and Information Verification. </p>
-      </a>
+    
     </td>
     <td>
       <a href="">
