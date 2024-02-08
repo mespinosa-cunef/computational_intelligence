@@ -1,35 +1,35 @@
-# Computational Intelligence Group
+![image](https://github.com/mespinosa-cunef/computational_intelligence/assets/151147175/e2d1b4e9-c808-4728-bc39-06d054f5bc0d)# Computational Intelligence Group
 
 ## Members
 
 <table style="padding:10px">
   <tr>
-    <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
+    <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 300px height = 300px >
       <p class="name">Victoria López</p>
     </td>
-      <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
+      <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 300px height = 300px >
       <p class="name">Diego Urgelés</p>
     </td>
-        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
+        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 300px height = 300px >
       <p class="name">César Guevara</p>
     </td> </tr> <tr>
-        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
+        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 300px height = 300px >
       <p class="name">Pavél Llamocca</p>
     </td>
-        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
+        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 300px height = 300px >
       <p class="name">Natalia Lagunas</p>
     </td>
-        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 279px height = 396px >
+        <td><img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 300px height = 300px >
       <p class="name">Yury Jiménez</p>
     </td> </tr> <tr>
-        <td><img src="/computational_intelligence/assets/img/María.jpg"  alt="1" width = 279px height = 396px >
+        <td><img src="/computational_intelligence/assets/img/María.jpg"  alt="1" width = 300px height = 300px >
       <p class="name">María Espinosa</p>
     </td>
-        <td><img src="/computational_intelligence/assets/img/Ricardo.jpg"  alt="1" width = 279px height = 396px >
+        <td><img src="/computational_intelligence/assets/img/Ricardo.jpg"  alt="1" width = 300px height = 300px >
       <p class="name">Ricardo Hidalgo</p>
     </td>
         </td>
-        <td><img src="/computational_intelligence/assets/img/Mat.jpg"  alt="1" width = 279px height = 396px >
+        <td><img src="/computational_intelligence/assets/img/Mat.jpg"  alt="1" width = 300px height = 300px >
       <p class="name">Mateo Pérez </p>
     </td>
   </tr>
