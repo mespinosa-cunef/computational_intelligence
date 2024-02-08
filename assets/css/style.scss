@@ -19,6 +19,7 @@ table, tr, td {
     border: none !important;
 }
 .bio{
-  text-align:left;
   width:270px;
+  text-align: justify;
+  text-justify: inter-word;
 }
