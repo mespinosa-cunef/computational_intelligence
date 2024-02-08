@@ -11,18 +11,21 @@
       <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="1" width = 270px height = 270px >
       <p class="name" style="text-align:center">Victoria López</p>
       </a>
+      <p class="bio"> </p>
     </td>
       <td>
         <a href="">
         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="2" width = 270px height = 270px >
         <p class="name" style="text-align:center">Diego Urgelés</p>
       </a>
+           <p class="bio"> </p>
     </td>
     <td>        
       <a href="">
       <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="3" width = 270px height = 270px >
       <p class="name" style="text-align:center">César Guevara</p>
       </a>
+         <p class="bio"> </p>
     </td></tr> 
   <tr>
     <td>
@@ -30,18 +33,21 @@
       <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="4" width = 270px height = 270px >
       <p class="name" style="text-align:center">Pavél Llamocca</p>
       </a>
+         <p class="bio"> </p>
     </td>
     <td>
       <a href="https://scholar.google.com/citations?hl=es&user=_WfodfIAAAAJ&view_op=list_works&sortby=pubdate">
       <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="5" width = 270px height = 270px >
       <p class="name" style="text-align:center">Natalia Lagunas</p>
       </a>
+         <p class="bio"> </p>
     </td>
     <td>
       <a href="">
       <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="6" width = 270px height = 270px >
       <p class="name" style="text-align:center">Yury Jiménez</p>
       </a>
+         <p class="bio"> </p>
     </td></tr>
   <tr>
     <td>
@@ -59,12 +65,20 @@ Research interests: NLP, ML, Linguistics, and Information Verification. </p>
       <img src="/computational_intelligence/assets/img/Ricardo.jpg"  alt="8" width = 270px height = 270px >
       <p class="name" style="text-align:center">Ricardo Hidalgo</p>
       </a>
+       <p class="bio">Over 20 years' professional experience in major multinational companies. Extensive experience in power generation, telecommunications, and IT industries.
+Masters in Big Data and Business Analytics and Education. Computer Science Engineer. 
+Research interests: IoT/IIoT, ML/DL-Transformer  </p>
+    
     </td>
     <td>
       <a href="https://scholar.google.com/citations?hl=es&user=9FdJD10AAAAJ&view_op=list_works&sortby=pubdate">
       <img src="/computational_intelligence/assets/img/Mat.jpg"  alt="9" width = 270px height = 270px >
       <p class="name" style="text-align:center">Mateo Pérez </p>
       </a>
+      <p class="bio"> PhD candidate in Psychologhy at UCM, Spain.
+Graduated in psychology with clinical and educational mention
+Research interests: Bipolar Disorder, Substance abuse, technology addictions.
+General health psychologist </p>
     </td>
   </tr>
 </table>
