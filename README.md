@@ -19,7 +19,7 @@
         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="2" width = 270px height = 270px >
         <p class="name" style="text-align:center">Diego Urgelés</p>
       </a>
-           <p class="bio"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor ![image](https://github.com/mespinosa-cunef/computational_intelligence/assets/151147175/e8d90519-cc0a-4ddd-92f6-ee5a5c218722)
+           <p class="bio"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor 
 </p>
     </td>
     <td>        
@@ -27,7 +27,7 @@
       <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="3" width = 270px height = 270px >
       <p class="name" style="text-align:center">César Guevara</p>
       </a>
-         <p class="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor ![image](https://github.com/mespinosa-cunef/computational_intelligence/assets/151147175/546e40e9-51af-46c3-841d-3d4671ef3c41)
+         <p class="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
  </p>
     </td></tr> 
   <tr>
@@ -36,14 +36,15 @@
       <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="4" width = 270px height = 270px >
       <p class="name" style="text-align:center">Pavél Llamocca</p>
       </a>
-         <p class="bio"> </p>
+         <p class="bio"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+</p>
     </td>
     <td>
       <a href="https://scholar.google.com/citations?hl=es&user=_WfodfIAAAAJ&view_op=list_works&sortby=pubdate">
       <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="5" width = 270px height = 270px >
       <p class="name" style="text-align:center">Natalia Lagunas</p>
       </a>
-         <p class="bio"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor ![image](https://github.com/mespinosa-cunef/computational_intelligence/assets/151147175/7af1f008-c794-4733-a56d-6c28fbc47bc3)
+         <p class="bio"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor 
  </p>
     </td>
     <td>
