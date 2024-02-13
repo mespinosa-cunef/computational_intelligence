@@ -2,7 +2,7 @@
 
 ## Members
 
-<table style="padding:10px">
+<table style="padding:0px">
   <tr>
     <td>
       <a href="https://scholar.google.com/citations?hl=es&user=HzUXtGsAAAAJ&view_op=list_works&sortby=pubdate">
