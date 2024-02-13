@@ -45,7 +45,7 @@
       <img src="/computational_intelligence/assets/img/yury.jpg"  alt="6" width = 270px height = 270px >
       <p class="name" style="text-align:center">Yury Jiménez</p>
       </a>
-         <p class="bio"> </p>
+         <p class="bio"> PhD in Telematics from the Polytechnic University of Catalonia, Master in Telecommunications Engineering, and graduated in Electronic Engineering. University professor and researcher in Colombia and Spain. In her work as a teacher-researcher, she has directed and participated in several research projects focused on the Internet of Things (IoT), Artificial Intelligence (AI) and Data Science.</p>
     </td></tr>
   <tr>
     <td>
