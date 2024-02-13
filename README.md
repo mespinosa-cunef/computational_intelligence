@@ -10,7 +10,7 @@
       <p class="name" style="text-align:center">Victoria López</p>
       </a>
       <p class="bio">
-      Director of the Polytechnic School of CUNEF University. She holds a PhD in Computational Mathematics and Artificial Intelligence and she has been a researcher at University of Amsterdam and the Complutense University of Madrid. She has two "Sexenios de investigación" recognized by ANECA and has supervised three doctoral theses, as well as numerous Master's theses. Her interests include Computational Mathematics and Artificial Intelligence.
+      Director of the Polytechnic School of CUNEF University. She holds a PhD in Computational Mathematics and Artificial Intelligence and she has been a researcher at University of Amsterdam and the Complutense University of Madrid. Her interests include Computational Mathematics and Artificial Intelligence.
       
       </p>
     </td>
