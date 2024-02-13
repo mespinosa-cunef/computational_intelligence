@@ -6,7 +6,7 @@
   <tr>
     <td>
       <a href="https://scholar.google.com/citations?hl=es&user=HzUXtGsAAAAJ&view_op=list_works&sortby=pubdate">
-      <img src="/computational_intelligence/assets/img/Victoria_foto.jpg"  alt="1" width = 270px height = 270px >
+      <img src="/computational_intelligence/assets/img/Victoria-foto.jpg"  alt="1" width = 270px height = 270px >
       <p class="name" style="text-align:center">Victoria López</p>
       </a>
       <p class="bio"> </p>
