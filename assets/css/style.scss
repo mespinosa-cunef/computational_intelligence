@@ -5,11 +5,7 @@ $header-heading-color: #fff !default;
 $header-bg-color: #40798C;
 $header-bg-color-secondary: #70A9A1;
 @import "{{ site.theme }}";
-* { 
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+.body { min-height: 100vh; }
 .page-header {
   padding: 0px !important;
 }
