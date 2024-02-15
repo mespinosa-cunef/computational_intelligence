@@ -21,8 +21,8 @@ $header-bg-color-secondary: #70A9A1;
 table {
     border: none !important;
     table-layout: fixed;
-    border: none !important;
-    width: 100% !important;
+    vertical-align: top;
+    width: 900 !important;
 }
 
 td {
@@ -38,6 +38,7 @@ td {
     border: none !important;
     width: 300px;
     overflow: hidden;
+    vertical-align: top;
 }
 
 img {
