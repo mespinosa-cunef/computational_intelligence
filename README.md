@@ -5,7 +5,7 @@
 <table style="padding:0px">
   <tr>
     <td>
-      <div class="box"><img src="/computational_intelligence/assets/img/Victoria-foto.jpg"  alt="1"></div>
+      <div class="box"><img src="/computational_intelligence/assets/img/Victoria-foto.jpg" width= "300px"  alt="1"></div>
       <p class="name" style="text-align:center">Victoria López</p>
       <p class="bio">
       Director of the Polytechnic School of CUNEF University. She holds a PhD in Computational Mathematics and Artificial Intelligence and she has been a researcher at University of Amsterdam and the Complutense University of Madrid. Her interests include Computational Mathematics and Artificial Intelligence.
