@@ -26,10 +26,10 @@ td {
   width: 300 px;
   height: 600 px;
 }
-td img {
+.box img {
     object-fit: cover !important;
-    width: 300 px;
-    height: 300 px;
+    width: 300 px !important;
+    height: 300 px !important;
 }
 
 .bio{
