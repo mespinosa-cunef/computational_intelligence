@@ -6,7 +6,7 @@ $header-bg-color: #40798C;
 $header-bg-color-secondary: #70A9A1;
 @import "{{ site.theme }}";
 .main-content { 
-    padding-left: 10px;
+    padding-left: 0px;
     padding-right: 0px;
 }
 .page-header {
@@ -22,12 +22,12 @@ table {
     border: none !important;
     table-layout: fixed;
     vertical-align: top;
-    width: 1000 px !important;
+    width: 960 px !important;
 }
 
 td {
     border: none !important;
-    width: 333 px;
+    width: 320 px;
     height: 600 px;
 }
 
@@ -36,7 +36,7 @@ td {
 th,
 td {
     border: none !important;
-    width: 333 px;
+    width: 320 px;
     overflow: hidden;
     vertical-align: top;
 }
@@ -44,13 +44,13 @@ td {
 img {
     border: 5px solid #ffffff;
     border-radius: 25px;
-    width: 333 px !important;
-    height: 333 px;
+    width: 320 px !important;
+    height: 320 px;
 }
 
 .bio{
-  height:300 px;
-  width: 300 px;
+  height:350 px;
+  width: 320 px;
   text-align: justify;
   text-justify: inter-word;
 }
