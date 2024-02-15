@@ -26,6 +26,10 @@ td {
   width: 300 px;
   height: 600 px;
 }
+td img {
+  object-fit: cover;
+}
+
 .bio{
   height:300px;
   text-align: justify;
