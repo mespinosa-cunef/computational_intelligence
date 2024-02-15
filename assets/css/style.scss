@@ -6,8 +6,8 @@ $header-bg-color: #40798C;
 $header-bg-color-secondary: #70A9A1;
 @import "{{ site.theme }}";
 .main-content { 
-    padding-left: 0px;
-    padding-right: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .page-header {
   padding: 0px !important;
@@ -45,11 +45,10 @@ img {
     border: 5px solid #ffffff;
     border-radius: 25px;
     width: 320 px !important;
-    height: 320 px;
+    height: 320 px !important;
 }
 
 .bio{
-  height:350 px;
   width: 320 px;
   text-align: justify;
   text-justify: inter-word;
