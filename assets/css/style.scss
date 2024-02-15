@@ -6,7 +6,7 @@ $header-bg-color: #40798C;
 $header-bg-color-secondary: #70A9A1;
 @import "{{ site.theme }}";
 .main-content { 
-    padding-left: 0px;
+    padding-left: 10px;
     padding-right: 0px;
 }
 .page-header {
@@ -21,6 +21,7 @@ $header-bg-color-secondary: #70A9A1;
 table {
     border: none !important;
     table-layout: fixed;
+    border: none !important;
     width: 100% !important;
 }
 
