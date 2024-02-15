@@ -22,36 +22,24 @@ table {
     border: none !important;
     table-layout: fixed;
     vertical-align: top;
-    width: 960 px !important;
+    width: 930px !important;
 }
 
 td {
     border: none !important;
-    width: 320 px;
-    height: 600 px;
-    vertical-align: top !important;
-
-}
-
-
-
-th,
-td {
-    border: none !important;
-    width: 320 px;
-    overflow: hidden;
+    height: 600px;
     vertical-align: top !important;
 }
 
 img {
     border: 5px solid #ffffff;
     border-radius: 25px;
-    width: 310 px !important;
-    height: 310 px !important;
+    width: 310px !important;
+    height: 310px !important;
 }
 
 .bio{
-  width: 320 px;
+  width: 310px;
   text-align: justify;
   text-justify: inter-word;
 }
