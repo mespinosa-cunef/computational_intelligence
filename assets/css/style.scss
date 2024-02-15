@@ -5,7 +5,7 @@ $header-heading-color: #fff !default;
 $header-bg-color: #40798C;
 $header-bg-color-secondary: #70A9A1;
 @import "{{ site.theme }}";
-.main#content { 
+.main-content { 
     padding-left: 10px;
     padding-right: 10px;
 }
