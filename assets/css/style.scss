@@ -8,6 +8,9 @@ $header-bg-color-secondary: #70A9A1;
 .main-content { 
     padding-left: 5px;
     padding-right: 5px;
+    max-width: 100%;
+    overflow-x: hidden;
+
 }
 .page-header {
   padding: 0px !important;
