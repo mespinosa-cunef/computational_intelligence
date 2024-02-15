@@ -6,8 +6,8 @@ $header-bg-color: #40798C;
 $header-bg-color-secondary: #70A9A1;
 @import "{{ site.theme }}";
 .main-content { 
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 .page-header {
   padding: 0px !important;
@@ -29,6 +29,8 @@ td {
     border: none !important;
     width: 320 px;
     height: 600 px;
+    vertical-align: top !important;
+
 }
 
 
@@ -38,14 +40,14 @@ td {
     border: none !important;
     width: 320 px;
     overflow: hidden;
-    vertical-align: top;
+    vertical-align: top !important;
 }
 
 img {
     border: 5px solid #ffffff;
     border-radius: 25px;
-    width: 320 px !important;
-    height: 320 px !important;
+    width: 310 px !important;
+    height: 310 px !important;
 }
 
 .bio{
