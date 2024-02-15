@@ -21,20 +21,22 @@ $header-bg-color-secondary: #70A9A1;
 table {
     border: none !important;
     table-layout: fixed;
-    width: 900px !important;
+    width: 100% !important;
 }
 
 td {
-  width: 300 px;
-  height: 600 px;
+    border: none !important;
+    width: 300 px;
+    height: 600 px;
 }
 
 
 
 th,
 td {
-  width: 300px;
-  overflow: hidden;
+    border: none !important;
+    width: 300px;
+    overflow: hidden;
 }
 
 img {
