@@ -6,9 +6,9 @@ $header-bg-color: #40798C;
 $header-bg-color-secondary: #70A9A1;
 @import "{{ site.theme }}";
 .main-content { 
-    padding-left: 25px;
-    padding-right: 5px;
-    max-width: 100%;
+    padding-left: auto;
+    padding-right: auto;
+    max-width: auto;
     overflow-x: hidden;
     margin: auto;
 
