@@ -8,14 +8,13 @@ title: Computational Intelligence Group
       <td>
          <img src="/computational_intelligence/assets/img/Victoria.jpg"  alt="1" >
          <p class="name" style="text-align:center">Victoria López</p>
-         <p class="bio">
-            Director of the Polytechnic School of CUNEF University. She holds a PhD in Computational Mathematics and Artificial Intelligence and she has been a researcher at University of Amsterdam and the Complutense University of Madrid. Her interests include Computational Mathematics and Artificial Intelligence.
+         <p class="bio"> Director of the Polytechnic School of CUNEF University. She holds a PhD in Computational Mathematics and Artificial Intelligence and she has been a researcher at University of Amsterdam and the Complutense University of Madrid. Her interests include Computational Mathematics and Artificial Intelligence.
          </p>
       </td>
       <td>
          <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="2" >
          <p class="name" style="text-align:center">Diego Urgelés</p>
-         <p class="bio"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor </p>
+         <p class="bio"> </p>
       </td>
      <td>
          <img src="/computational_intelligence/assets/img/yury.jpg"  alt="6" >
@@ -66,7 +65,7 @@ title: Computational Intelligence Group
  <td>
          <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="3">
          <p class="name" style="text-align:center">César Guevara</p>
-         <p class="bio"> Cesar Guevara received a degree in information systems and sciences from the Universidad de las Fuerzas Armadas, Ecuador, a master's degree in computer science and a European Ph.D. in computer engineering from the Universidad Complutense de Madrid, Spain. His research interests include the application of artificial intelligence to detect human behavior patterns and cybersecurity in information leaks and intrusions.
+         <p class="bio"> Graduated in information systems and sciences from the Universidad de las Fuerzas Armadas, Ecuador, a master's degree in computer science and Ph.D. in computer engineering from the Complutense University of Madrid. His research interests include the application of artificial intelligence to detect human behavior and cybersecurity.
          </p>
       </td>
    </tr>
