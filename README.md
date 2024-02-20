@@ -14,7 +14,7 @@
          <p class="bio"> Psychiatrist specialized in the treatment of bipolar disorder, depression and addictions practicing in Madrid since 2002. Completed his residency in psychiatry in Madrid, at the Hospital de La Princesa and holds a PhD. in research in medical-surgical sciences by the Universidad Complutense of Madrid.</p>
       </td>
      <td>
-         <img src="/computational_intelligence/assets/img/yury.jpg"  alt="6" >
+         <img src="/computational_intelligence/assets/img/yury.jpg"  alt="3" >
          <p class="name" style="text-align:center">Yury Jiménez</p>
          <p class="bio"> PhD in Telematics from the Polytechnic University of Catalonia, Master in Telecommunications Engineering, and graduated in Electronic Engineering. She has directed and participated in several research projects focused on the Internet of Things (IoT), Artificial Intelligence (AI) and Data Science.</p>
       </td>
@@ -22,7 +22,7 @@
   
    <tr>
       <td>
-         <img src="/computational_intelligence/assets/img/María.jpg"  alt="7" >
+         <img src="/computational_intelligence/assets/img/María.jpg"  alt="4" >
          <p class="name" style="text-align:center">María Espinosa</p>
          <p class="bio"> PhD candidate in Natural Language Processing (NLP) at UNED, Spain. 
             Computer Scientist and English Studies bachelor. 
@@ -30,7 +30,7 @@
          </p>
       </td>
       <td>
-         <img src="/computational_intelligence/assets/img/Ricardo.jpg"  alt="8">
+         <img src="/computational_intelligence/assets/img/Ricardo.jpg"  alt="5">
          <p class="name" style="text-align:center">Ricardo Hidalgo</p>
          <p class="bio">Over 20 years' professional experience in major multinational companies. Extensive experience in power generation, telecommunications, and IT industries.
             Masters in Big Data and Business Analytics and Education. Computer Science Engineer. 
@@ -38,7 +38,7 @@
          </p>
       </td>
       <td>
-         <img src="/computational_intelligence/assets/img/Mat.jpg"  alt="9" >
+         <img src="/computational_intelligence/assets/img/Mat.jpg"  alt="6" >
          <p class="name" style="text-align:center">Mateo Pérez </p>
          <p class="bio"> PhD candidate in Psychologhy at UCM, Spain.
             Graduated in psychology with clinical and educational mention
@@ -49,18 +49,18 @@
    </tr>
     <tr>
       <td>
-         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="4">
+         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="7">
          <p class="name" style="text-align:center">Pavél Llamocca</p>
          <p class="bio"> PhD in Computer Science from the Complutense University of Madrid. Work experience for more than 10 years in consulting in banking and financial entities. His research interests include Machine Learning techniques applied to mental health, Smart Cities, and Open Data. </p>
       </td>
       <td>
-         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="5">
+         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="8">
          <p class="name" style="text-align:center">Natalia Lagunas</p>
          <p class="bio">
          </p>
       </td>
  <td>
-         <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="3">
+         <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="9">
          <p class="name" style="text-align:center">César Guevara</p>
          <p class="bio"> Graduated in information systems and sciences from the Universidad de las Fuerzas Armadas, Ecuador, a master's degree in computer science and Ph.D. in computer engineering from the Complutense University of Madrid. His research interests include the application of artificial intelligence to detect human behavior and cybersecurity.
          </p>
@@ -68,7 +68,7 @@
    </tr>
    <tr>
       <td>
-         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="5">
+         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="10">
          <p class="name" style="text-align:center">Manuel Faraco</p>
          <p class="bio">
          </p>
