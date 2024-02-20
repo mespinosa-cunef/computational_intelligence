@@ -55,18 +55,18 @@ title: Computational Intelligence Group
       <td>
          <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="4">
          <p class="name" style="text-align:center">Pavél Llamocca</p>
-         <p class="bio"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor</p>
+         <p class="bio"> PhD in Computer Science from the Complutense University of Madrid. Work experience for more than 10 years in consulting in banking and financial entities. His research interests include Machine Learning techniques applied to mental health, Smart Cities, and Open Data. </p>
       </td>
       <td>
          <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="5">
          <p class="name" style="text-align:center">Natalia Lagunas</p>
-         <p class="bio"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor 
+         <p class="bio">
          </p>
       </td>
  <td>
          <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="3">
          <p class="name" style="text-align:center">César Guevara</p>
-         <p class="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+         <p class="bio"> Cesar Guevara received a degree in information systems and sciences from the Universidad de las Fuerzas Armadas, Ecuador, a master's degree in computer science and a European Ph.D. in computer engineering from the Universidad Complutense de Madrid, Spain. His research interests include the application of artificial intelligence to detect human behavior patterns and cybersecurity in information leaks and intrusions.
          </p>
       </td>
    </tr>
