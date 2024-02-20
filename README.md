@@ -66,8 +66,7 @@
          </p>
       </td>
    </tr>
-       <tr>
-
+   <tr>
       <td>
          <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="5">
          <p class="name" style="text-align:center">Manuel Faraco</p>
@@ -76,6 +75,7 @@
       </td>
    </tr>
 </table>
+
 ## Recent Publications
 
 - *Jiménez, Y., Espinosa, M., Lopez, V., Llamocca, P., Urgelés, D. & Guevara, C.* (2023).**Detection of Risk States in Emotional Disorders.** 18th International Conference on Intelligent Systems and Knowledge Engineering (ISKE 2023), Fuzhou, China.
