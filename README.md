@@ -11,7 +11,7 @@
       <td>
          <img src="/computational_intelligence/assets/img/diego.jpg"  alt="2" >
          <p class="name" style="text-align:center">Diego Urgelés</p>
-         <p class="bio"> </p>
+         <p class="bio"> Psychiatrist specialized in the treatment of bipolar disorder, depression and addictions practicing in Madrid since 2002. Completed his residency in psychiatry in Madrid, at the Hospital de La Princesa and holds a PhD. in research in medical-surgical sciences by the Universidad Complutense of Madrid.</p>
       </td>
      <td>
          <img src="/computational_intelligence/assets/img/yury.jpg"  alt="6" >
