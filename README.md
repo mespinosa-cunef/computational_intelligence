@@ -9,7 +9,7 @@
          </p>
       </td>
       <td>
-         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="2" >
+         <img src="/computational_intelligence/assets/img/diego.jpg"  alt="2" >
          <p class="name" style="text-align:center">Diego Urgelés</p>
          <p class="bio"> </p>
       </td>
