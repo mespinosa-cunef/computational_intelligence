@@ -66,6 +66,15 @@
          </p>
       </td>
    </tr>
+       <tr>
+
+      <td>
+         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="5">
+         <p class="name" style="text-align:center">Manuel Faraco</p>
+         <p class="bio">
+         </p>
+      </td>
+   </tr>
 </table>
 ## Recent Publications
 
