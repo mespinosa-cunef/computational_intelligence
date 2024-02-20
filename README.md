@@ -1,4 +1,7 @@
-# Computational Intelligence Group
+---
+title: Computational Intelligence Group
+---
+
 ## Members
 <table style="padding:0px">
    <tr>
