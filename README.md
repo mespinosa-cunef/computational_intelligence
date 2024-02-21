@@ -49,7 +49,7 @@
    </tr>
     <tr>
       <td>
-         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="7">
+         <img src="/computational_intelligence/assets/img/pavel.jpg"  alt="7">
          <p class="name" style="text-align:center">Pavél Llamocca</p>
          <p class="bio"> PhD in Computer Science from the Complutense University of Madrid. Work experience for more than 10 years in consulting in banking and financial entities. His research interests include Machine Learning techniques applied to mental health, Smart Cities, and Open Data. </p>
       </td>
