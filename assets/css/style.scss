@@ -6,9 +6,6 @@ $header-bg-color: #40798C;
 $header-bg-color-secondary: #70A9A1;
 @import "{{ site.theme }}";
 
-.btn {
-  display: none !important;
-}
 .main-content { 
     padding-left: 0px;
     padding-right: 0px;
