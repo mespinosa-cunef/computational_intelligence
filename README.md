@@ -73,6 +73,13 @@
          <p class="bio">
          </p>
       </td>
+      <td>
+         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="10">
+         <p class="name" style="text-align:center">Milena Čukić</p>
+         <p class="bio"> Bachelor with a Master in Engineering of Biomedical Electronics, with Magisterium in Biophysics and PhD in Neuroscience; specialized in fractal and nonlinear analysis of electrophysiological signals (neurophysiology). Focus of research at early prediction of psychiatric and neurological disorders (physiological complexity), as well as Digital Health and Active Inference.
+         </p>
+      </td>
+      
    </tr>
 </table>
 
