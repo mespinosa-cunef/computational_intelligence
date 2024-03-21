@@ -25,7 +25,7 @@
    </tr>
     <tr>
       <td>
-            <a href="#pavél-llamoca"><img src="/computational_intelligence/assets/img/pavel.jpg"  alt="7"></a>
+            <a href="#pavél-llamocca"><img src="/computational_intelligence/assets/img/pavel.jpg"  alt="7"></a>
       </td>
          <td>
             <a href="#ricardo-hidalgo"><img src="/computational_intelligence/assets/img/Ricardo.jpg"  alt="5"></a>
