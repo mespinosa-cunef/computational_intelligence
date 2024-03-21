@@ -53,13 +53,13 @@
          <p class="name" style="text-align:center">Pavél Llamocca</p>
          <p class="bio"> PhD in Computer Science from the Complutense University of Madrid. Work experience for more than 10 years in consulting in banking and financial entities. His research interests include Machine Learning techniques applied to mental health, Smart Cities, and Open Data. </p>
       </td>
-      <td>
-         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="8">
-         <p class="name" style="text-align:center">Natalia Lagunas</p>
-         <p class="bio">
+         <td>
+         <img src="/computational_intelligence/assets/img/milena.jpg"  alt="10">
+         <p class="name" style="text-align:center">Milena Čukić</p>
+         <p class="bio"> Bachelor with a Master in Engineering of Biomedical Electronics, with Magisterium in Biophysics and PhD in Neuroscience; specialized in fractal and nonlinear analysis of electrophysiological signals (neurophysiology). Focus of research at early prediction of psychiatric and neurological disorders (physiological complexity), as well as Digital Health and Active Inference.
          </p>
       </td>
- <td>
+       <td>
          <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="9">
          <p class="name" style="text-align:center">César Guevara</p>
          <p class="bio"> Graduated in information systems and sciences from the Universidad de las Fuerzas Armadas, Ecuador, a master's degree in computer science and Ph.D. in computer engineering from the Complutense University of Madrid. His research interests include the application of artificial intelligence to detect human behavior and cybersecurity.
@@ -73,13 +73,13 @@
          <p class="bio">
          </p>
       </td>
-      <td>
-         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="10">
-         <p class="name" style="text-align:center">Milena Čukić</p>
-         <p class="bio"> Bachelor with a Master in Engineering of Biomedical Electronics, with Magisterium in Biophysics and PhD in Neuroscience; specialized in fractal and nonlinear analysis of electrophysiological signals (neurophysiology). Focus of research at early prediction of psychiatric and neurological disorders (physiological complexity), as well as Digital Health and Active Inference.
+     <td>
+         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="8">
+         <p class="name" style="text-align:center">Natalia Lagunas</p>
+         <p class="bio">
          </p>
       </td>
-      
+
    </tr>
 </table>
 
