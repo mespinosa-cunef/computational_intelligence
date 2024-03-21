@@ -74,8 +74,8 @@ Graduated in information systems and sciences from the Universidad de las Fuerza
 
 ### External Collaborators
 
-#### Manuel Faraco
-#### Natalia Lagunas
+- **Manuel Faraco**
+- **Natalia Lagunas**
     
 
 ## Recent Publications
