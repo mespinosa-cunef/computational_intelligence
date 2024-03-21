@@ -3,7 +3,7 @@
 <table class="centerTable">
    <tr>
       <td>
-         <img src="/computational_intelligence/assets/img/Victoria.jpg"  alt="1" >
+         <a href="#victoria-lópez"><img src="/computational_intelligence/assets/img/Victoria.jpg"  alt="1" ></a>
       </td>
       <td>
          <img src="/computational_intelligence/assets/img/diego.jpg"  alt="2" >
