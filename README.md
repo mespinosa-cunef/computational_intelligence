@@ -4,82 +4,35 @@
    <tr>
       <td>
          <img src="/computational_intelligence/assets/img/Victoria.jpg"  alt="1" >
-         <p class="name" style="text-align:center">Victoria López</p>
-         <p class="bio"> Director of the Polytechnic School of CUNEF University. She holds a PhD in Computational Mathematics and Artificial Intelligence and she has been a researcher at University of Amsterdam and the Complutense University of Madrid. Her interests include Computational Mathematics and Artificial Intelligence.
-         </p>
       </td>
       <td>
          <img src="/computational_intelligence/assets/img/diego.jpg"  alt="2" >
-         <p class="name" style="text-align:center">Diego Urgelés</p>
-         <p class="bio"> Psychiatrist specialized in the treatment of bipolar disorder, depression and addictions practicing in Madrid since 2002. Completed his residency in psychiatry in Madrid, at the Hospital de La Princesa and holds a PhD. in research in medical-surgical sciences by the Universidad Complutense of Madrid.</p>
       </td>
      <td>
          <img src="/computational_intelligence/assets/img/yury.jpg"  alt="3" >
-         <p class="name" style="text-align:center">Yury Jiménez</p>
-         <p class="bio"> PhD in Telematics from the Polytechnic University of Catalonia, Master in Telecommunications Engineering, and graduated in Electronic Engineering. She has directed and participated in several research projects focused on the Internet of Things (IoT), Artificial Intelligence (AI) and Data Science.</p>
       </td>
    </tr>
-  
    <tr>
       <td>
          <img src="/computational_intelligence/assets/img/María.jpg"  alt="4" >
-         <p class="name" style="text-align:center">María Espinosa</p>
-         <p class="bio"> PhD candidate in Natural Language Processing (NLP) at UNED, Spain. 
-            Computer Scientist and English Studies bachelor. 
-            Research interests: NLP, ML, Linguistics, and Information Verification. 
-         </p>
       </td>
       <td>
          <img src="/computational_intelligence/assets/img/Ricardo.jpg"  alt="5">
-         <p class="name" style="text-align:center">Ricardo Hidalgo</p>
-         <p class="bio">Over 20 years' professional experience in major multinational companies. Extensive experience in power generation, telecommunications, and IT industries.
-            Masters in Big Data and Business Analytics and Education. Computer Science Engineer. 
-            Research interests: IoT/IIoT, ML/DL-Transformer  
-         </p>
       </td>
       <td>
          <img src="/computational_intelligence/assets/img/Mat.jpg"  alt="6" >
-         <p class="name" style="text-align:center">Mateo Pérez </p>
-         <p class="bio"> PhD candidate in Psychologhy at UCM, Spain.
-            Graduated in psychology with clinical and educational mention
-            Research interests: Bipolar Disorder, Substance abuse, technology addictions.
-            General health psychologist 
-         </p>
       </td>
    </tr>
     <tr>
       <td>
          <img src="/computational_intelligence/assets/img/pavel.jpg"  alt="7">
-         <p class="name" style="text-align:center">Pavél Llamocca</p>
-         <p class="bio"> PhD in Computer Science from the Complutense University of Madrid. Work experience for more than 10 years in consulting in banking and financial entities. His research interests include Machine Learning techniques applied to mental health, Smart Cities, and Open Data. </p>
       </td>
          <td>
          <img src="/computational_intelligence/assets/img/milena.jpg"  alt="10">
-         <p class="name" style="text-align:center">Milena Čukić</p>
-         <p class="bio"> Bachelor with a Master in Engineering of Biomedical Electronics, with Magisterium in Biophysics and PhD in Neuroscience; specialized in fractal and nonlinear analysis of electrophysiological signals (neurophysiology). Focus of research at early prediction of psychiatric and neurological disorders (physiological complexity), as well as Digital Health and Active Inference.
-         </p>
       </td>
        <td>
          <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="9">
-         <p class="name" style="text-align:center">César Guevara</p>
-         <p class="bio"> Graduated in information systems and sciences from the Universidad de las Fuerzas Armadas, Ecuador, a master's degree in computer science and Ph.D. in computer engineering from the Complutense University of Madrid. His research interests include the application of artificial intelligence to detect human behavior and cybersecurity.
-         </p>
       </td>
-   </tr>
-   <tr>
-      <td>
-         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="10">
-         <p class="name" style="text-align:center">Manuel Faraco</p>
-         <p class="bio">
-         </p>
-      </td>
-     <td>
-         <img src="/computational_intelligence/assets/img/userstock.jpeg"  alt="8">
-         <p class="name" style="text-align:center">Natalia Lagunas</p>
-         <p class="bio">
-         </p>
-      </td>
-
    </tr>
 </table>
 
