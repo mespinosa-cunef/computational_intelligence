@@ -70,7 +70,6 @@
 [Ver](https://sci2s.ugr.es/caepia18/proceedings/docs/CAEPIA2018_paper_84.pdf)
 - *Anchiraico Trujillo, J. C.* (2017). **Diseño de una arquitectura Big Data para la predicción de crisis en el trastorno bipolar.**
 [Ver](https://docta.ucm.es/rest/api/core/bitstreams/edd9a587-a734-49dc-9bd9-a86402e6f022/content)
-- 
 
 ## Members
 
