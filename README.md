@@ -16,8 +16,8 @@
       <td>
          <img src="/computational_intelligence/assets/img/María.jpg"  alt="4" >
       </td>
-      <td>
-         <img src="/computational_intelligence/assets/img/Ricardo.jpg"  alt="5">
+     <td>
+         <img src="/computational_intelligence/assets/img/milena.jpg"  alt="10">
       </td>
       <td>
          <img src="/computational_intelligence/assets/img/Mat.jpg"  alt="6" >
@@ -28,7 +28,7 @@
          <img src="/computational_intelligence/assets/img/pavel.jpg"  alt="7">
       </td>
          <td>
-         <img src="/computational_intelligence/assets/img/milena.jpg"  alt="10">
+         <img src="/computational_intelligence/assets/img/Ricardo.jpg"  alt="5">
       </td>
        <td>
          <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="9">
