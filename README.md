@@ -1,6 +1,6 @@
 # Computational Intelligence Group
-## Members
-<table style="padding:0px">
+
+<table>
    <tr>
       <td>
          <img src="/computational_intelligence/assets/img/Victoria.jpg"  alt="1" >
@@ -35,6 +35,48 @@
       </td>
    </tr>
 </table>
+
+## Members
+
+### Victoria López
+Director of the Polytechnic School of CUNEF University. She holds a PhD in Computational Mathematics and Artificial Intelligence and she has been a researcher at University of Amsterdam and the Complutense University of Madrid. Her interests include Computational Mathematics and Artificial Intelligence.
+
+### Diego Urgelés
+Psychiatrist specialized in the treatment of bipolar disorder, depression and addictions practicing in Madrid since 2002. Completed his residency in psychiatry in Madrid, at the Hospital de La Princesa and holds a PhD. in research in medical-surgical sciences by the Universidad Complutense of Madrid.
+
+### Yury Jiménez
+PhD in Telematics from the Polytechnic University of Catalonia, Master in Telecommunications Engineering, and graduated in Electronic Engineering. She has directed and participated in several research projects focused on the Internet of Things (IoT), Artificial Intelligence (AI) and Data Science.
+
+### María Espinosa
+PhD candidate in Natural Language Processing (NLP) at UNED, Spain. 
+Computer Scientist and English Studies bachelor. 
+Research interests: NLP, ML, Linguistics, and Information Verification. 
+
+### Ricardo Hidalgo
+Over 20 years' professional experience in major multinational companies. Extensive experience in power generation, telecommunications, and IT industries.
+Masters in Big Data and Business Analytics and Education. Computer Science Engineer. 
+Research interests: IoT/IIoT, ML/DL-Transformer  
+
+### Mateo Pérez
+PhD candidate in Psychologhy at UCM, Spain.
+Graduated in psychology with clinical and educational mention
+Research interests: Bipolar Disorder, Substance abuse, technology addictions.
+General health psychologist 
+
+### Pavél Llamocca
+PhD in Computer Science from the Complutense University of Madrid. Work experience for more than 10 years in consulting in banking and financial entities. His research interests include Machine Learning techniques applied to mental health, Smart Cities, and Open Data.
+
+### Milena Čukić
+Bachelor with a Master in Engineering of Biomedical Electronics, with Magisterium in Biophysics and PhD in Neuroscience; specialized in fractal and nonlinear analysis of electrophysiological signals (neurophysiology). Focus of research at early prediction of psychiatric and neurological disorders (physiological complexity), as well as Digital Health and Active Inference.
+
+### César Guevara
+Graduated in information systems and sciences from the Universidad de las Fuerzas Armadas, Ecuador, a master's degree in computer science and Ph.D. in computer engineering from the Complutense University of Madrid. His research interests include the application of artificial intelligence to detect human behavior and cybersecurity.
+
+### External Collaborators
+
+#### Manuel Faraco
+#### Natalia Lagunas
+    
 
 ## Recent Publications
 
