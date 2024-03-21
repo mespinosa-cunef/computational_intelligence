@@ -1,6 +1,6 @@
 # Computational Intelligence Group
 
-<table align="center" class="gridStyle">
+<table class="centerTable">
    <tr>
       <td>
          <img src="/computational_intelligence/assets/img/Victoria.jpg"  alt="1" >
