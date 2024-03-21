@@ -1,6 +1,6 @@
 # Computational Intelligence Group
 
-<table class="centerTable">
+<table>
    <tr>
       <td>
          <a href="#victoria-lópez"><img src="/computational_intelligence/assets/img/Victoria.jpg"  alt="1" ></a>
