@@ -6,32 +6,32 @@
          <a href="#victoria-lópez"><img src="/computational_intelligence/assets/img/Victoria.jpg"  alt="1" ></a>
       </td>
       <td>
-         <img src="/computational_intelligence/assets/img/diego.jpg"  alt="2" >
+         <a href="#diego-urgelés"><img src="/computational_intelligence/assets/img/diego.jpg"  alt="2" ></a>
       </td>
      <td>
-         <img src="/computational_intelligence/assets/img/yury.jpg"  alt="3" >
+        <a href="#yury-jiménez"><img src="/computational_intelligence/assets/img/yury.jpg"  alt="3" ></a>
       </td>
    </tr>
    <tr>
       <td>
-         <img src="/computational_intelligence/assets/img/María.jpg"  alt="4" >
+         <a href="#maría-espinosa"><img src="/computational_intelligence/assets/img/María.jpg"  alt="4" ></a>
       </td>
      <td>
-         <img src="/computational_intelligence/assets/img/milena.jpg"  alt="10">
+            <a href="#milena-čukić"><img src="/computational_intelligence/assets/img/milena.jpg"  alt="10"></a>
       </td>
       <td>
-         <img src="/computational_intelligence/assets/img/Mat.jpg"  alt="6" >
+            <a href="#mateo-pérez"><img src="/computational_intelligence/assets/img/Mat.jpg"  alt="6" ></a>
       </td>
    </tr>
     <tr>
       <td>
-         <img src="/computational_intelligence/assets/img/pavel.jpg"  alt="7">
+            <a href="#pavel-llamoca"><img src="/computational_intelligence/assets/img/pavel.jpg"  alt="7"></a>
       </td>
          <td>
-         <img src="/computational_intelligence/assets/img/Ricardo.jpg"  alt="5">
+            <a href="#ricardo-hidalgo"><img src="/computational_intelligence/assets/img/Ricardo.jpg"  alt="5"></a>
       </td>
        <td>
-         <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="9">
+            <a href="#césar-guevara"> <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="9"></a>
       </td>
    </tr>
 </table>
