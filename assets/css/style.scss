@@ -29,23 +29,20 @@ $header-bg-color-secondary: #70A9A1;
 }
 table {
     border: none !important;
-    table-layout: fixed;
-    vertical-align: top;
-    overflow-x: hidden !important;
-
 }
 
 td {
     border: none !important;
     height: 0px;
     vertical-align: top !important;
+    padding: 0px
 }
 
 img {
-    border: 5px solid #ffffff;
+    border: 0px solid #ffffff;
     border-radius: 0px;
-    width: 310px !important;
-    height: 310px !important;
+    width: 210px !important;
+    height: 210px !important;
 }
 p.name {
     font-weight: bold;
