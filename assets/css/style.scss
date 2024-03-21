@@ -37,21 +37,16 @@ table {
 
 td {
     border: none !important;
-    height: 600px;
+    height: 0px;
     vertical-align: top !important;
 }
 
 img {
     border: 5px solid #ffffff;
-    border-radius: 25px;
+    border-radius: 0px;
     width: 310px !important;
     height: 310px !important;
 }
 p.name {
     font-weight: bold;
-}
-.bio{
-  width: 310px;
-  text-align: justify;
-  text-justify: inter-word;
 }
