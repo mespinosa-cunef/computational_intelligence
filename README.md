@@ -34,6 +34,17 @@
             <a href="#césar-guevara"> <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="9"></a>
       </td>
    </tr>
+       <tr>
+      <td>
+            <a href="#carlos-cotelo"><img src="/computational_intelligence/assets/img/carlos.jpg"  alt="7"></a>
+      </td>
+         <td>
+            
+      </td>
+       <td>
+            
+      </td>
+   </tr>
 </table>
 
 
