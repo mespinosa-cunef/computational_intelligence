@@ -48,6 +48,9 @@
 </table>
 
 
+## Research Projects
+
+- **ACERTA**: Análisis Computacional de Estados de Riesgo en Trastornos Afectivos [Mas info.](https://www.innovaspain.com/acerta-salud-mental-bipolar-ia-cunef-universidad-diego-urgeles/)
 
 ## Recent Publications
 
