@@ -118,6 +118,9 @@ Bachelor with a Master in Engineering of Biomedical Electronics, with Magisteriu
 ### César Guevara
 Graduated in information systems and sciences from the Universidad de las Fuerzas Armadas, Ecuador, a master's degree in computer science and Ph.D. in computer engineering from the Complutense University of Madrid. His research interests include the application of artificial intelligence to detect human behavior and cybersecurity.
 
+### Carlos Cotelo
+Carlos Cotelo is a full-time professor at CUNEF. He has a degree in Philosophy and a PhD in Journalism. He has a teaching career of more than twenty years, combined with professional experience in sectors related to Marketing and audiovisual production. His role in the group will be focused on ensuring that our experiments meet the necessary ethical requirements.
+
 ### External Collaborators
 
 - **Manuel Faraco**
