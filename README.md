@@ -53,7 +53,8 @@
 - **ACERTA**: Análisis Computacional de Estados de Riesgo en Trastornos Afectivos [Mas info.](https://www.innovaspain.com/acerta-salud-mental-bipolar-ia-cunef-universidad-diego-urgeles/)
 
 ## Recent Publications
-
+- *López, V., LLamoca, P., Mérida-Nicolich, A.* (2024). **A classification-based algorithm to characterize euthymia data in mental health**, 19th International Conference on Soft Computing Models in Industrial and Environmental Applications, Salamanca, Spain.
+- *Cotelo, C., López, V.* (2024). **Contributions of Computational Intelligence to Enhancing Ethics in AI Application**, XXXI International European Business Ethics Network (EBEN), Cáceres, Spain.
 - *Jiménez, Y., Espinosa, M., Lopez, V., Llamocca, P., Urgelés, D. & Guevara, C.* (2023).**Detection of Risk States in Emotional Disorders.** 18th International Conference on Intelligent Systems and Knowledge Engineering (ISKE 2023), Fuzhou, China.
 [Ver](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EZZx1TbPBSJDrfYPcU00QoUB2jTArZoI_2vl70rhwyEIDw?e=NaCHUV)
 - *Lopez, V., Urgelés, D., Llamocca, P., Jiménez, Y., Espinosa, M., Lagunas, N. & Guevara, C.* (2023) **Data integration process without predetermined structure and its application in mental health.** SEIO 2023, Elche, Spain.
