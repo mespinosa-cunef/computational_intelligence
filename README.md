@@ -131,4 +131,5 @@ Carlos Cotelo is a full-time professor at CUNEF. He has a degree in Philosophy a
 - **Natalia Lagunas**
 
 ## Contact
-   victoria.lopez@cunef.edu
+  <a href="mailto:victoria.lopez@cunef.edu">victoria.lopez@cunef.edu</a>
+
