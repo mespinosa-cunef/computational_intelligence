@@ -50,7 +50,7 @@
 
 ## Research Projects
 
-- **ACERTA**: Análisis Computacional de Estados de Riesgo en Trastornos Afectivos [Mas info.](https://www.innovaspain.com/acerta-salud-mental-bipolar-ia-cunef-universidad-diego-urgeles/)
+- **ACERTA**: Análisis Computacional de Estados de Riesgo en Trastornos Afectivos. Más info:[ES](https://www.innovaspain.com/acerta-salud-mental-bipolar-ia-cunef-universidad-diego-urgeles/) [EN](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EafBG9PDT2ZHkyZ8pwGjSrgBHuHr6GZDiacveW1XmlVxmQ?e=83zhQa)
 
 ## Recent Publications
 - *López, V., LLamoca, P., Mérida-Nicolich, A.* (2024). **A classification-based algorithm to characterize euthymia data in mental health**, 19th International Conference on Soft Computing Models in Industrial and Environmental Applications, Salamanca, Spain.
