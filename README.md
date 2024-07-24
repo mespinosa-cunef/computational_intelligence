@@ -50,8 +50,8 @@
 
 ## Research Projects
 
-- **ACERTA**: Análisis Computacional de Estados de Riesgo en Trastornos Afectivos. ([Más info](https://www.innovaspain.com/acerta-salud-mental-bipolar-ia-cunef-universidad-diego-urgeles/){:target="_blank"})
-  *Computational Analysis of Risk States in Affective Disorders.* ([More info](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EafBG9PDT2ZHkyZ8pwGjSrgBHuHr6GZDiacveW1XmlVxmQ?e=83zhQa){:target="_blank"}).
+- **ACERTA**: Análisis Computacional de Estados de Riesgo en Trastornos Afectivos ([Más info](https://www.innovaspain.com/acerta-salud-mental-bipolar-ia-cunef-universidad-diego-urgeles/){:target="_blank"}).
+  *Computational Analysis of Risk States in Affective Disorders* ([More info](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EafBG9PDT2ZHkyZ8pwGjSrgBHuHr6GZDiacveW1XmlVxmQ?e=83zhQa){:target="_blank"}).
 
 ## Recent Publications
 - Hidalgo, R., López, V., & Urgelés, D. (2024). **Voice-based mood recognition: an application to mental health.** Intelligent Management Of Data And Information In Decision Making., 14, (pp. 41-48).
