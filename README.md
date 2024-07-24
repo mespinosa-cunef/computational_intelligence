@@ -54,7 +54,7 @@
   *Computational Analysis of Risk States in Affective Disorders.* [More info:](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EafBG9PDT2ZHkyZ8pwGjSrgBHuHr6GZDiacveW1XmlVxmQ?e=83zhQa){:target="_blank"}).
 
 ## Recent Publications
-- Hidalgo, R., López, V., & Urgelés, D. (2024). **Voice-based mood recognition: an application to mental health.** Intelligent Management Of Data And Information In Decision Making., 14, 41-48.
+- Hidalgo, R., López, V., & Urgelés, D. (2024). **Voice-based mood recognition: an application to mental health.** Intelligent Management Of Data And Information In Decision Making., 14, (pp. 41-48).
 [See](https://doi.org/10.1142/9789811294631_0006)
 - Hidalgo Aragón, R., Llamocca Portella, P. (2024). **Causality between daytime motor activity and sleep Quality.** XX Conferencia de la Asociación Española para la Inteligencia Artificial., (pp. 495-500). 
 [See](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EVedcLZ_3oNEnDjscE5qlUYBZrJjGJlDRrFOgtPP9qwhNg?e=sRNU0k)
