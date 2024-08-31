@@ -54,11 +54,13 @@
   *Computational Analysis of Risk States in Affective Disorders* ([More info](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EafBG9PDT2ZHkyZ8pwGjSrgBHuHr6GZDiacveW1XmlVxmQ?e=83zhQa){:target="_blank"}).
 
 ## Recent Publications
-- Hidalgo, R., López, V., & Urgelés, D. (2024). **Voice-based mood recognition: an application to mental health.** Intelligent Management Of Data And Information In Decision Making., 14, (pp. 41-48).
+- *Portella, P. L., Maldonado, C. G., Agudelo, Y. J., & López, V. L.* (2024). **Smartwatches Should Facilitate the Aggregation of Mental Health Data.** 
+[See](https://www.siam.org/publications/siam-news/articles/smartwatches-should-facilitate-the-aggregation-of-mental-health-data/)
+- *Hidalgo, R., López, V., & Urgelés, D.* (2024). **Voice-based mood recognition: an application to mental health.** Intelligent Management Of Data And Information In Decision Making., 14, (pp. 41-48).
 [See](https://doi.org/10.1142/9789811294631_0006)
-- Hidalgo Aragón, R., Llamocca Portella, P. (2024). **Causality between daytime motor activity and sleep Quality.** XX Conferencia de la Asociación Española para la Inteligencia Artificial., (pp. 495-500). 
+- *Hidalgo Aragón, R., Llamocca Portella, P.* (2024). **Causality between daytime motor activity and sleep Quality.** XX Conferencia de la Asociación Española para la Inteligencia Artificial., (pp. 495-500). 
 [See](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EVedcLZ_3oNEnDjscE5qlUYBZrJjGJlDRrFOgtPP9qwhNg?e=sRNU0k)
-- Agudelo, Y. J., Espinosa, M., & Cukic, M. (2024). **Cloud aggregation of sensor data: an application on mood disorder analysis**, IEEE International Workshop on Metrology for Industry 4.0 & IoT (MetroInd4. 0 & IoT) (pp. 424-429). IEEE.
+- *Agudelo, Y. J., Espinosa, M., & Cukic, M.* (2024). **Cloud aggregation of sensor data: an application on mood disorder analysis**, IEEE International Workshop on Metrology for Industry 4.0 & IoT (MetroInd4. 0 & IoT) (pp. 424-429). IEEE.
  [See](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EdyBjQmEJilAsHM9f1-GXn0B_rydFx1bkY_Yl8CDooziLg?e=rxeJuz) 
 - *López, V., LLamoca, P., Mérida-Nicolich, A.* (2024). **A classification-based algorithm to characterize euthymia data in mental health**, 19th International Conference on Soft Computing Models in Industrial and Environmental Applications, Salamanca, Spain.
 - *Cotelo, C., López, V.* (2024). **Contributions of Computational Intelligence to Enhancing Ethics in AI Application**, XXXI International European Business Ethics Network (EBEN), Cáceres, Spain.
