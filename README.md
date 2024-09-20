@@ -54,6 +54,13 @@
   *Computational Analysis of Risk States in Affective Disorders* ([More info](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EafBG9PDT2ZHkyZ8pwGjSrgBHuHr6GZDiacveW1XmlVxmQ?e=83zhQa){:target="_blank"}).
 
 ## Recent Publications
+- *Čukić, M., Olejarczyk,E., & Bachmann, M.* (2024) **Fractal analysis of electrophysiological signals to detect and monitor depression: what we know so far?** Chapter 34 in Book 'The Fractal Geometry of the Brain'_2nd Edition, by Prof. Antonio Di Ieva (Part of the book series: Advances in Neurobiology (NEUROBIOL, volume 36)). Springer Nature. DOI: 10.1007/978-3-031-47606-8_34
+  [See](https://link.springer.com/chapter/10.1007/978-3-031-47606-8_34)
+- *Olejarczyk, E., Čukić, M., Porcaro, C., Zappasodi, F., & Tecchio, F.* (2024) **Clinical sensitivity of fractal neurodynamics.** Chapter 3 in Book The Fractal Geometry of the Brain_2nd Edition, by Prof. Antonio Di Ieva (Part of the book series: Advances in Neurobiology (NEUROBIOL, volume 36)). Springer Nature.
+  [See](https://link.springer.com/chapter/10.1007/978-3-031-47606-8_15)       
+- *Čukić, M., Annaheim, S., Bahrami, F., Defraeye, T., De Nys, K., & M. Jörger* (2024) **Physics-based digital twin guided individual dosing of transdermal fentanyl in advanced cancer patients: a pilot study.**(2024) A Protocol Paper. British Medical Journal Open (BMJ Open), doi:10.1136/bmjopen-2024-085296
+- *Čukić, M., Annaheim, S., & Rossi, R. M.* (2024) **An Early Dementia Risk Screening Approach for healthy aging citizens**. Conference paper MetroInd 4.0 & IoT, Firenze 28-31 May 2024.
+  [See](https://doi.org/10.1109/MetroInd4.0IoT61288.2024.10584161)
 - *Portella, P. L., Maldonado, C. G., Agudelo, Y. J., & López, V. L.* (2024). **Smartwatches Should Facilitate the Aggregation of Mental Health Data.** 
 [See](https://www.siam.org/publications/siam-news/articles/smartwatches-should-facilitate-the-aggregation-of-mental-health-data/)
 - *Hidalgo, R., López, V., & Urgelés, D.* (2024). **Voice-based mood recognition: an application to mental health.** Intelligent Management Of Data And Information In Decision Making., 14, (pp. 41-48).
@@ -69,6 +76,9 @@
 - *Lopez, V., Urgelés, D., Llamocca, P., Jiménez, Y., Espinosa, M., Lagunas, N. & Guevara, C.* (2023) **Data integration process without predetermined structure and its application in mental health.** SEIO 2023, Elche, Spain.
 [See](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EUrFcTUvX5RBqbjtuvXpQk0Bc9EzwaJ9yNqiCv1JKVMHIA?e=BO4wgk)
 - *Lopez, V., Llamocca, P., Urgelés, D., Jiménez, Y., Guevara, C., Viñals, C., & Espinosa, M.* (2023). **Verification of the integration process of algorithms and sensor data for mental health applications.** Human Systems Engineering and Design (IHSED 2023): Future Trends and Applications, 112(112).
+- *Flora Bahrami, René Michel Rossi, Katelijne De Nys, Markus Jörger, Milena Čukić Radenkovic and Thijs Defraeye* (2023) **Implementing physics-based digital patient twins to tailor the shift/change of oral morphine to transdermal fentanyl patches based on patient physiology.** European Journal of Pharmaceutical Sciences, Volume 195. [See](https://doi.org/10.1016/j.ejps.2024.106727)
+- *Čukić, M., & Galović, S.* (2023) **Improvement of Digital twin for transdermal fentanyl delivery based on anomalous diffusion**. IAPCS-10 Belgrade 4-6 Sept 2023. ADMET & DMPK. [See](https://www.iapchem.org/index.php/iapc-10program/book-of-abstracts)
+- *Čukić, M., Annaheim, S., Eggenberger, P. , & Rossi, R. M.* (2023) **Possible scalable solution for early detection of prodromal phase of dementia based on EEG complexity.** Biomedical Signal Processing & Control on February 21. 2024. BSPC-D-24-01384 Preprint at Science Square
 [See](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EfGj2pciGetPvmW7Imbzn4gBwd53WoqiN9TPO96nRCDZTQ?e=5APnMo)
 - *Čukić, M., & López, V.* (2022). **Progress in Objective Detection of Depression and Online Monitoring of Patients Based on Physiological Complexity**. Frontiers in Psychiatry, 13, 828773.
 [See](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EZvRmerVlp1Do29eYGXredwB0w4sEbS_UYEHNbcPTn5Qkw?e=mOZPBb)
