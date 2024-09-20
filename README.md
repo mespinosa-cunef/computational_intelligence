@@ -144,6 +144,12 @@ Graduated in information systems and sciences from the Universidad de las Fuerza
 ### Carlos Cotelo
 Carlos Cotelo is a full-time professor at CUNEF. He has a degree in Philosophy and a PhD in Journalism. He has a teaching career of more than twenty years, combined with professional experience in sectors related to Marketing and audiovisual production. His role in the group will be focused on ensuring that our experiments meet the necessary ethical requirements.
 
+### Miguel Andrés
+PhD candidate at Complutense University of Madrid, Spain. Computer bachelor. Research interests: Video games, VR, Agile methodologies.
+
+### Diego Riofrío
+Diego Fernando Riofrío focuses his research on human-computer interaction, virtual reality, adaptive systems for education, and educational data mining. His most significant work includes developing intelligent tutoring systems for procedural training and using data science to model student behavior. He has authored numerous papers on these topics, with research contributions recognized in leading journals. His teaching career spans several years, covering subjects like advanced app programming, database management, software usability, and computer science theory, consistently teaching from 2017 to the present across various levels of higher education.
+
 ### External Collaborators
 
 - **Manuel Faraco**
