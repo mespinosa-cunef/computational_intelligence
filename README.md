@@ -121,11 +121,6 @@ PhD candidate in Natural Language Processing (NLP) at UNED, Spain.
 Computer Scientist and English Studies bachelor. 
 Research interests: NLP, ML, Linguistics, and Information Verification. 
 
-### Ricardo Hidalgo
-Over 20 years' professional experience in major multinational companies. Extensive experience in power generation, telecommunications, and IT industries.
-Masters in Big Data and Business Analytics and Education. Computer Science Engineer. 
-Research interests: IoT/IIoT, ML/DL-Transformer  
-
 ### Mateo Pérez
 PhD candidate in Psychologhy at UCM, Spain.
 Graduated in psychology with clinical and educational mention
