@@ -28,7 +28,7 @@
             <a href="#pavél-llamocca"><img src="/computational_intelligence/assets/img/pavel.jpg"  alt="7"></a>
       </td>
          <td>
-            <a href="#ricardo-hidalgo"><img src="/computational_intelligence/assets/img/Ricardo.jpg"  alt="5"></a>
+            <a href="#ricardo-hidalgo"><img src="/computational_intelligence/assets/img/miguel.jpg"  alt="5"></a>
       </td>
        <td>
             <a href="#césar-guevara"> <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="9"></a>
