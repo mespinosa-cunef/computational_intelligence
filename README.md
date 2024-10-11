@@ -39,7 +39,8 @@
             <a href="#carlos-cotelo"><img src="/computational_intelligence/assets/img/carlos.jpg"  alt="7"></a>
       </td>
          <td>
-            
+            <a href="#diego-riofrío"><img src="/computational_intelligence/assets/img/diego.jpg"  alt="7"></a>
+
       </td>
        <td>
             
