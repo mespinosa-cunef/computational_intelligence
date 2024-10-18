@@ -146,6 +146,9 @@ PhD candidate at Complutense University of Madrid, Spain. Computer bachelor. Res
 ### Diego Riofrío
 Diego Fernando Riofrío focuses his research on human-computer interaction, virtual reality, adaptive systems for education, and educational data mining. His most significant work includes developing intelligent tutoring systems for procedural training and using data science to model student behavior. He has authored numerous papers on these topics, with research contributions recognized in leading journals. His teaching career spans several years, covering subjects like advanced app programming, database management, software usability, and computer science theory, consistently teaching from 2017 to the present across various levels of higher education.
 
+### Roberto Morales 
+Roberto Morales is a professor in the Department of Quantitative Methods at CUNEF since 2010. He holds a PhD in Econometrics with honors from the University of Alcalá and began his academic career at UC3M. He has taught in Master's programs at the University of Alcalá and UC3M. In 2024, he was accredited as a European Statistician by FENStatS and previously received the Complutense Award for one of the top academic records in Social Sciences.
+
 ### External Collaborators
 
 - **Manuel Faraco**
