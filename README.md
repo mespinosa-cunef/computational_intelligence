@@ -43,7 +43,7 @@
 
       </td>
        <td>
-            
+            <a href="#roberto-morales"><img src="/computational_intelligence/assets/img/Roberto.jpg"  alt="7"></a> 
       </td>
    </tr>
 </table>
