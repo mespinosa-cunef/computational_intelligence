@@ -55,6 +55,9 @@
   *Computational Analysis of Risk States in Affective Disorders* ([More info](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EafBG9PDT2ZHkyZ8pwGjSrgBHuHr6GZDiacveW1XmlVxmQ?e=83zhQa){:target="_blank"}).
 
 ## Recent Publications
+
+- *Llamocca, P., Guevara, C. Jiménez, Y. & López, V* (2024) **Smartwatches Should Facilitate the Aggregation of Mental Health Data.** Society for industrial and applied mathematics  (SIAM-2024)
+  [See](https://www.siam.org/publications/siam-news/articles/smartwatches-should-facilitate-the-aggregation-of-mental-health-data/)
 - *Čukić, M., Olejarczyk,E., & Bachmann, M.* (2024) **Fractal analysis of electrophysiological signals to detect and monitor depression: what we know so far?** Chapter 34 in Book 'The Fractal Geometry of the Brain'_2nd Edition, by Prof. Antonio Di Ieva (Part of the book series: Advances in Neurobiology (NEUROBIOL, volume 36)). Springer Nature. DOI: 10.1007/978-3-031-47606-8_34
   [See](https://link.springer.com/chapter/10.1007/978-3-031-47606-8_34)
 - *Olejarczyk, E., Čukić, M., Porcaro, C., Zappasodi, F., & Tecchio, F.* (2024) **Clinical sensitivity of fractal neurodynamics.** Chapter 3 in Book The Fractal Geometry of the Brain_2nd Edition, by Prof. Antonio Di Ieva (Part of the book series: Advances in Neurobiology (NEUROBIOL, volume 36)). Springer Nature.
@@ -62,8 +65,6 @@
 - *Čukić, M., Annaheim, S., Bahrami, F., Defraeye, T., De Nys, K., & M. Jörger* (2024) **Physics-based digital twin guided individual dosing of transdermal fentanyl in advanced cancer patients: a pilot study.**(2024) A Protocol Paper. British Medical Journal Open (BMJ Open), doi:10.1136/bmjopen-2024-085296
 - *Čukić, M., Annaheim, S., & Rossi, R. M.* (2024) **An Early Dementia Risk Screening Approach for healthy aging citizens**. Conference paper MetroInd 4.0 & IoT, Firenze 28-31 May 2024.
   [See](https://doi.org/10.1109/MetroInd4.0IoT61288.2024.10584161)
-- *Portella, P. L., Maldonado, C. G., Agudelo, Y. J., & López, V. L.* (2024). **Smartwatches Should Facilitate the Aggregation of Mental Health Data.** 
-[See](https://www.siam.org/publications/siam-news/articles/smartwatches-should-facilitate-the-aggregation-of-mental-health-data/)
 - *Hidalgo, R., López, V., & Urgelés, D.* (2024). **Voice-based mood recognition: an application to mental health.** Intelligent Management Of Data And Information In Decision Making., 14, (pp. 41-48).
 [See](https://doi.org/10.1142/9789811294631_0006)
 - *Hidalgo Aragón, R., Llamocca Portella, P.* (2024). **Causality between daytime motor activity and sleep Quality.** XX Conferencia de la Asociación Española para la Inteligencia Artificial., (pp. 495-500). 
