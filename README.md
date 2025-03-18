@@ -3,47 +3,47 @@
 <table>
    <tr>
       <td>
-         <a href="#victoria-lópez"><img src="/computational_intelligence/assets/img/Victoria.jpg"  alt="1" ></a>
+         <a href="#victoria-lópez"><img src="/computational_intelligence/assets/img/Victoria.jpg"  alt="1" title="Victoria López"></a>
       </td>
       <td>
-         <a href="#diego-urgelés"><img src="/computational_intelligence/assets/img/diego.jpg"  alt="2" ></a>
+         <a href="#diego-urgelés"><img src="/computational_intelligence/assets/img/diego.jpg"  alt="2" title="Diego Urgelés"></a>
       </td>
      <td>
-        <a href="#yury-jiménez"><img src="/computational_intelligence/assets/img/yury.jpg"  alt="3" ></a>
+        <a href="#yury-jiménez"><img src="/computational_intelligence/assets/img/yury.jpg"  alt="3" title = "Yury Jiménez" ></a>
       </td>
    </tr>
    <tr>
       <td>
-         <a href="#maría-espinosa"><img src="/computational_intelligence/assets/img/María.jpg"  alt="4" ></a>
+         <a href="#maría-espinosa"><img src="/computational_intelligence/assets/img/María.jpg"  alt="4" title="María Espinosa"></a>
       </td>
      <td>
-            <a href="#milena-čukić"><img src="/computational_intelligence/assets/img/milena.jpg"  alt="10"></a>
+            <a href="#milena-čukić"><img src="/computational_intelligence/assets/img/milena.jpg"  alt="10" title = "Milena Čukić"></a>
       </td>
       <td>
-            <a href="#mateo-pérez"><img src="/computational_intelligence/assets/img/Mat.jpg"  alt="6" ></a>
+            <a href="#mateo-pérez"><img src="/computational_intelligence/assets/img/Mat.jpg"  alt="6" title = "Mateo Pérez"></a>
       </td>
    </tr>
     <tr>
       <td>
-            <a href="#pavél-llamocca"><img src="/computational_intelligence/assets/img/pavel.jpg"  alt="7"></a>
+            <a href="#pavél-llamocca"><img src="/computational_intelligence/assets/img/pavel.jpg"  alt="7" title= "Pavél Llamocca"></a>
       </td>
          <td>
-            <a href="#miguel-andrés"><img src="/computational_intelligence/assets/img/Miguel.jpg"  alt="5"></a>
+            <a href="#miguel-andrés"><img src="/computational_intelligence/assets/img/Miguel.jpg"  alt="5" title = "Miguel Andrés"></a>
       </td>
        <td>
-            <a href="#césar-guevara"> <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="9"></a>
+            <a href="#césar-guevara"> <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="9" title = "César Guevara"></a>
       </td>
    </tr>
        <tr>
       <td>
-            <a href="#carlos-cotelo"><img src="/computational_intelligence/assets/img/carlos.jpg"  alt="7"></a>
+            <a href="#carlos-cotelo"><img src="/computational_intelligence/assets/img/carlos.jpg"  alt="7" title= "Carlos Cotelo"></a>
       </td>
          <td>
-            <a href="#diego-riofrío"><img src="/computational_intelligence/assets/img/Diego.jpg"  alt="7"></a>
+            <a href="#diego-riofrío"><img src="/computational_intelligence/assets/img/Diego.jpg"  alt="7" title= "Diego Riofrío"></a>
 
       </td>
        <td>
-            <a href="#roberto-morales"><img src="/computational_intelligence/assets/img/Roberto.jpg"  alt="7"></a> 
+            <a href="#roberto-morales"><img src="/computational_intelligence/assets/img/Roberto.jpg"  alt="7" title= "Roberto Morales"></a> 
       </td>
    </tr>
 </table>
@@ -152,8 +152,7 @@ Roberto Morales is a professor in the Department of Quantitative Methods at CUNE
 
 ### External Collaborators
 
-- **Manuel Faraco**
-- **Natalia Lagunas**
+- **Manuel Faraco** ([Centro Adalmed](https://adalmed.es/))
 
 ## Contact 
 <iframe width="640px" height="500px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=vxt2_GMXIUaHfKsXWQl1U411tl2JZOJFg2PfudUPv41UMkdCNVZaWFRNNk8wN0NGV09NSzdBVFNJVy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
