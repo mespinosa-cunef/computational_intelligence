@@ -9,29 +9,29 @@
          <a href="#diego-urgelés"><img src="/computational_intelligence/assets/img/diego.jpg"  alt="2" title="Diego Urgelés"></a>
       </td>
      <td>
-        <a href="#yury-jiménez"><img src="/computational_intelligence/assets/img/yury.jpg"  alt="3" title = "Yury Jiménez" ></a>
+        <a href="#yury-jiménez"><img src="/computational_intelligence/assets/img/María.jpg"  alt="3" title = "María Espinosa" ></a>
       </td>
    </tr>
    <tr>
       <td>
-         <a href="#maría-espinosa"><img src="/computational_intelligence/assets/img/María.jpg"  alt="4" title="María Espinosa"></a>
+            <a href="#diego-riofrío"><img src="/computational_intelligence/assets/img/Diego.jpg"  alt="7" title= "Diego Riofrío"></a>
       </td>
      <td>
             <a href="#milena-čukić"><img src="/computational_intelligence/assets/img/milena.jpg"  alt="10" title = "Milena Čukić"></a>
       </td>
       <td>
-            <a href="#mateo-pérez"><img src="/computational_intelligence/assets/img/Mat.jpg"  alt="6" title = "Mateo Pérez"></a>
+          <a href="#pavél-llamocca"><img src="/computational_intelligence/assets/img/pavel.jpg"  alt="7" title= "Pavél Llamocca"></a>
       </td>
    </tr>
     <tr>
       <td>
-            <a href="#pavél-llamocca"><img src="/computational_intelligence/assets/img/pavel.jpg"  alt="7" title= "Pavél Llamocca"></a>
+            <a href="#césar-guevara"> <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="9" title = "César Guevara"></a>
       </td>
          <td>
             <a href="#miguel-andrés"><img src="/computational_intelligence/assets/img/Miguel.jpg"  alt="5" title = "Miguel Andrés"></a>
       </td>
        <td>
-            <a href="#césar-guevara"> <img src="/computational_intelligence/assets/img/Cesar.jpg"  alt="9" title = "César Guevara"></a>
+            <a href="#roberto-morales"><img src="/computational_intelligence/assets/img/Roberto.jpg"  alt="7" title= "Roberto Morales"></a> 
       </td>
    </tr>
        <tr>
@@ -39,11 +39,11 @@
             <a href="#carlos-cotelo"><img src="/computational_intelligence/assets/img/carlos.jpg"  alt="7" title= "Carlos Cotelo"></a>
       </td>
          <td>
-            <a href="#diego-riofrío"><img src="/computational_intelligence/assets/img/Diego.jpg"  alt="7" title= "Diego Riofrío"></a>
+            <a href="#mateo-pérez"><img src="/computational_intelligence/assets/img/Mat.jpg"  alt="6" title = "Mateo Pérez"></a>
 
       </td>
        <td>
-            <a href="#roberto-morales"><img src="/computational_intelligence/assets/img/Roberto.jpg"  alt="7" title= "Roberto Morales"></a> 
+            <a href="#roberto-morales"><img src="/computational_intelligence/assets/img/faraco.jpg"  alt="7" title= "Manuel Faraco"></a> 
       </td>
    </tr>
 </table>
@@ -55,6 +55,8 @@
   *Computational Analysis of Risk States in Affective Disorders* ([More info](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EafBG9PDT2ZHkyZ8pwGjSrgBHuHr6GZDiacveW1XmlVxmQ?e=83zhQa){:target="_blank"}).
 
 ## Recent Publications
+- *López, V., Llamocca, P., Cukic, M.* (2025). **Signal Encoding of a Piezoelectric Sensor Grid for Fuzzy Motor Activity Analysis in Mental Health.** In: Arai, K. (eds) Intelligent Systems and Applications. IntelliSys 2025. Lecture Notes in Networks and Systems, vol 1553. Springer, Cham.
+[See](https://doi.org/10.1007/978-3-031-99958-1_11)
 -  *Cotelo, C., López, V.* (2025). **Aportaciones de la inteligencia computacional a la mejora de la ética en las aplicaciones de la IA.** Humanidades e Ciências Sociais: Perspectivas Teóricas, Metodológicas e de Investigação VIII.   Editora Artemis 2025. DOI: 10.37572/EdArt_3103254755
 [See](https://editoraartemis.com.br/catalogo/post/aportaciones-de-la-inteligencia-computacional-a-la-mejora-de-la-etica-en-las-aplicaciones-de-la-ia)
 - *Llamocca, P., Guevara, C. Jiménez, Y. & López, V* (2024) **Smartwatches Should Facilitate the Aggregation of Mental Health Data.** Society for industrial and applied mathematics  (SIAM-2024)
@@ -116,40 +118,37 @@ Director of the Polytechnic School of CUNEF University. She holds a PhD in Compu
 ### Diego Urgelés
 Psychiatrist specialized in the treatment of bipolar disorder, depression and addictions practicing in Madrid since 2002. Completed his residency in psychiatry in Madrid, at the Hospital de La Princesa and holds a PhD. in research in medical-surgical sciences by the Universidad Complutense of Madrid.
 
-### Yury Jiménez
-PhD in Telematics from the Polytechnic University of Catalonia, Master in Telecommunications Engineering, and graduated in Electronic Engineering. She has directed and participated in several research projects focused on the Internet of Things (IoT), Artificial Intelligence (AI) and Data Science.
-
 ### María Espinosa
 PhD candidate in Natural Language Processing (NLP) at UNED, Spain. 
 Computer Scientist and English Studies bachelor. 
 Research interests: NLP, ML, Linguistics, and Information Verification. 
+
+### Diego Riofrío
+Diego Fernando Riofrío focuses his research on human-computer interaction, virtual reality, adaptive systems for education, and educational data mining. His most significant work includes developing intelligent tutoring systems for procedural training and using data science to model student behavior. He has authored numerous papers on these topics, with research contributions recognized in leading journals. His teaching career spans several years, covering subjects like advanced app programming, database management, software usability, and computer science theory, consistently teaching from 2017 to the present across various levels of higher education.
+
+### [Milena Čukić](https://milenacukic.pro/)
+Bachelor with a Master in Engineering of Biomedical Electronics, with Magisterium in Biophysics and PhD in Neuroscience; specialized in fractal and nonlinear analysis of electrophysiological signals (neurophysiology). Focus of research at early prediction of psychiatric and neurological disorders (physiological complexity), as well as Digital Health and Active Inference.
+
+### Pavél Llamocca
+PhD in Computer Science from the Complutense University of Madrid. Work experience for more than 10 years in consulting in banking and financial entities. His research interests include Machine Learning techniques applied to mental health, Smart Cities, and Open Data.
+
+### César Guevara
+Graduated in information systems and sciences from the Universidad de las Fuerzas Armadas, Ecuador, a master's degree in computer science and Ph.D. in computer engineering from the Complutense University of Madrid. His research interests include the application of artificial intelligence to detect human behavior and cybersecurity.
+
+### Miguel Andrés
+PhD candidate at Complutense University of Madrid, Spain. Computer bachelor. Research interests: Video games, VR, Agile methodologies.
+
+### Roberto Morales 
+Roberto Morales is a professor in the Department of Quantitative Methods at CUNEF since 2010. He holds a PhD in Econometrics with honors from the University of Alcalá and began his academic career at UC3M. He has taught in Master's programs at the University of Alcalá and UC3M. In 2024, he was accredited as a European Statistician by FENStatS and previously received the Complutense Award for one of the top academic records in Social Sciences.
+
+### Carlos Cotelo
+Carlos Cotelo is a full-time professor at CUNEF. He has a degree in Philosophy and a PhD in Journalism. He has a teaching career of more than twenty years, combined with professional experience in sectors related to Marketing and audiovisual production. His role in the group will be focused on ensuring that our experiments meet the necessary ethical requirements.
 
 ### Mateo Pérez
 PhD candidate in Psychologhy at UCM, Spain.
 Graduated in psychology with clinical and educational mention
 Research interests: Bipolar Disorder, Substance abuse, technology addictions.
 General health psychologist 
-
-### Pavél Llamocca
-PhD in Computer Science from the Complutense University of Madrid. Work experience for more than 10 years in consulting in banking and financial entities. His research interests include Machine Learning techniques applied to mental health, Smart Cities, and Open Data.
-
-### [Milena Čukić](https://milenacukic.pro/)
-Bachelor with a Master in Engineering of Biomedical Electronics, with Magisterium in Biophysics and PhD in Neuroscience; specialized in fractal and nonlinear analysis of electrophysiological signals (neurophysiology). Focus of research at early prediction of psychiatric and neurological disorders (physiological complexity), as well as Digital Health and Active Inference.
-
-### César Guevara
-Graduated in information systems and sciences from the Universidad de las Fuerzas Armadas, Ecuador, a master's degree in computer science and Ph.D. in computer engineering from the Complutense University of Madrid. His research interests include the application of artificial intelligence to detect human behavior and cybersecurity.
-
-### Carlos Cotelo
-Carlos Cotelo is a full-time professor at CUNEF. He has a degree in Philosophy and a PhD in Journalism. He has a teaching career of more than twenty years, combined with professional experience in sectors related to Marketing and audiovisual production. His role in the group will be focused on ensuring that our experiments meet the necessary ethical requirements.
-
-### Miguel Andrés
-PhD candidate at Complutense University of Madrid, Spain. Computer bachelor. Research interests: Video games, VR, Agile methodologies.
-
-### Diego Riofrío
-Diego Fernando Riofrío focuses his research on human-computer interaction, virtual reality, adaptive systems for education, and educational data mining. His most significant work includes developing intelligent tutoring systems for procedural training and using data science to model student behavior. He has authored numerous papers on these topics, with research contributions recognized in leading journals. His teaching career spans several years, covering subjects like advanced app programming, database management, software usability, and computer science theory, consistently teaching from 2017 to the present across various levels of higher education.
-
-### Roberto Morales 
-Roberto Morales is a professor in the Department of Quantitative Methods at CUNEF since 2010. He holds a PhD in Econometrics with honors from the University of Alcalá and began his academic career at UC3M. He has taught in Master's programs at the University of Alcalá and UC3M. In 2024, he was accredited as a European Statistician by FENStatS and previously received the Complutense Award for one of the top academic records in Social Sciences.
 
 ### External Collaborators
 
