@@ -55,6 +55,10 @@
   *Computational Analysis of Risk States in Affective Disorders* ([More info](https://cunefedu-my.sharepoint.com/:b:/g/personal/victoria_lopez_cunef_edu/EafBG9PDT2ZHkyZ8pwGjSrgBHuHr6GZDiacveW1XmlVxmQ?e=83zhQa){:target="_blank"}).
 
 ## Recent Publications
+- *Vidiella, M., and López, V.*(2026). **Synthetic Data Generation for Clustering Models: A Case Study in Mental Health Monitoring.** Lectures Notes in Computer Science. IDEAL 2025 26th International Conference on Intelligent Data Engineering and Automated Learning, vol. 16238, pp. 47-58. Springer Nature Switzerland.  
+[See](https://doi.org/10.1007/978-3-032-10486-1_5)
+- *Riofrío-Luzcando, D., de Andrés, M., López, V., Santos, M., Urgelés, D.* (2026) **A Computational Framework for Emotion-Sensitive Behavioral Metrics Using a Gamified Task.** Lectures Notes in Computer Science. IDEAL 2025 26th International Conference on Intelligent Data Engineering and Automated Learning, vol. 16238, pp. 214–225. Springer Nature Switzerland.
+[See](https://doi.org/10.1007/978-3-032-10486-1_20)
 - *López, V., Llamocca, P., Cukic, M.* (2025). **Signal Encoding of a Piezoelectric Sensor Grid for Fuzzy Motor Activity Analysis in Mental Health.** In: Arai, K. (eds) Intelligent Systems and Applications. IntelliSys 2025. Lecture Notes in Networks and Systems, vol 1553. Springer, Cham.
 [See](https://doi.org/10.1007/978-3-031-99958-1_11)
 -  *Cotelo, C., López, V.* (2025). **Aportaciones de la inteligencia computacional a la mejora de la ética en las aplicaciones de la IA.** Humanidades e Ciências Sociais: Perspectivas Teóricas, Metodológicas e de Investigação VIII.   Editora Artemis 2025. DOI: 10.37572/EdArt_3103254755
